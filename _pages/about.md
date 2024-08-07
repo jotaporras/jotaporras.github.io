@@ -13,8 +13,8 @@ In a past life, I worked as a software and ML engineer for 7+ years, applying ML
 
 Education
 ======
-- BSc. Information Systems Engineering, Universidad Nacional de Costa Rica (UNA)
-- MSc. Computer Science (summa cum laude) Instituto Tecnológico de Costa Rica.
+- **MSc. Computer Science**, Instituto Tecnológico de Costa Rica (ITCR).
+- **BSc. Information Systems Engineering**, Universidad Nacional de Costa Rica (UNA).
 
 Publications
 ======
