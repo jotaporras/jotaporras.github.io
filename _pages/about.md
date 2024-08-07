@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Javier Porras-Valenzuela, a second-year PhD student at the University of Pennsylvania, advised by Professor Alejandro Ribeiro. My research interests include: GNNs, transformers, optimization, LLMs, and RL/Stochastic Optimization. 
+Hello! I'm Javier Porras-Valenzuela, a second-year PhD student at the University of Pennsylvania, advised by Professor Alejandro Ribeiro. My research interests include: GNNs, transformers, optimization, LLMs, and RL/Stochastic Optimization.
 
 In a past life, I worked as a software and ML engineer for 7+ years, applying ML and OR to areas such as Supply Chain, Fraud Detection, and AdTech. 
 
