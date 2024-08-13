@@ -13,8 +13,9 @@ In a past life, I worked as a software and ML engineer for 7+ years, applying ML
 
 Education
 ======
-- **MSc. Computer Science**, Instituto Tecnológico de Costa Rica (ITCR).
-- **BSc. Information Systems Engineering**, Universidad Nacional de Costa Rica (UNA).
+- **PhD Electrical and Systems Engineering**, (2023-present) University of Pennsylvania.
+- **MSc Computer Science**, (2022) Instituto Tecnológico de Costa Rica (ITCR).
+- **BSc Information Systems Engineering**, (2015) Universidad Nacional de Costa Rica (UNA).
 
 Publications
 ======
