@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Javier Porras-Valenzuela, a third-year PhD student at the University of Pennsylvania, advised by Professor Alejandro Ribeiro. My research interests include: graph machine learning, constrained learning, optimization, and test-time learning.
+Hello! I'm Javier Porras-Valenzuela, a third-year PhD student in the Electrical and Systems Engineering (ESE) department at the University of Pennsylvania, advised by Professor Alejandro Ribeiro. My research interests include: graph machine learning, constrained learning, optimization, and test-time learning.
 
 In a past life, I worked as a software and ML engineer for 7+ years, applying ML and OR techniques to areas such as Supply Chain, Fraud Detection, and AdTech. 
 
