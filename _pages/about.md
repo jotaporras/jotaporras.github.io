@@ -25,6 +25,8 @@ Education
 Publications
 ======
 
+- **[Scaling Graph Reasoning in Language Models with Learnable Graph Positional Encodings](https://arxiv.org/abs/2610.27439)**<br>
+  Preprint, 2026
 - **[A Constrained Optimization Perspective of Unrolled Transformers](https://arxiv.org/abs/2601.17257)** <a href="https://github.com/jotaporras/constrained-unrolled-transformers" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
   *ICML 2026* — **Spotlight** (top 2.2%). Also at the *[COML Workshop](https://constrained-opt-ml.github.io/) @ NeurIPS 2025*.
 - **[Size-Transferability of Graph Transformers with Convolutional Positional Encodings](https://arxiv.org/abs/2602.15239)** <a href="https://github.com/jotaporras/size-transferability-graph-transformers" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
