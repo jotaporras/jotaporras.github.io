@@ -25,14 +25,15 @@ Education
 Publications
 ======
 
-- **[Scaling Graph Reasoning in Language Models with Learnable Graph Positional Encodings](https://arxiv.org/abs/2610.27439)**<br>
-  Preprint, 2026
-- **[A Constrained Optimization Perspective of Unrolled Transformers](https://arxiv.org/abs/2601.17257)** <a href="https://github.com/jotaporras/constrained-unrolled-transformers" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
-  *ICML 2026* — **Spotlight** (top 2.2%). Also at the *[COML Workshop](https://constrained-opt-ml.github.io/) @ NeurIPS 2025*.
-- **[Size-Transferability of Graph Transformers with Convolutional Positional Encodings](https://arxiv.org/abs/2602.15239)** <a href="https://github.com/jotaporras/size-transferability-graph-transformers" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
-  Preprint. Also at the *[NPGML Workshop](https://neurips.cc/virtual/2025/loc/san-diego/workshop/109579) @ NeurIPS 2025*
-- **[Loss Shaping Constraints for Long-Term Time Series Forecasting](https://arxiv.org/abs/2402.09373)** <a href="https://github.com/jotaporras/loss-shaping" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
-  *ICML 2024*
-- **[A Deep Reinforcement Learning Approach to Multistage Stochastic Network Flows for Distribution Problems](https://repositoriotec.tec.ac.cr/bitstream/handle/2238/13949/TF9360_BIB307896_Javier_Porras_Valenzuela.pdf?sequence=1&isAllowed=y)** <a href="https://github.com/jotaporras/shipping_assignment_rl_gcn" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
-  *Master's Thesis, ITCR, 2022*
+- **[Scaling Graph Reasoning in Language Models with Learnable Graph Positional Encodings](https://arxiv.org/abs/2610.27439).**<br>
+  **J. Porras-Valenzuela**, A. Arora, A. Ribeiro. *arXiv:2610.27439*, 2026.
+- **[A Constrained Optimization Perspective of Unrolled Transformers](https://arxiv.org/abs/2601.17257).** <a href="https://github.com/jotaporras/constrained-unrolled-transformers" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
+  **J. Porras-Valenzuela**, S. Hadou, A. Ribeiro. *ICML 2026*, **Spotlight** (top 2.2%).
+- **[Size Transferability of Graph Transformers with Convolutional Positional Encodings](https://arxiv.org/abs/2602.15239).** <a href="https://github.com/jotaporras/size-transferability-graph-transformers" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
+  **J. Porras-Valenzuela**, Z. Wang, X. Shang, Y. Wang, A. Ribeiro. *arXiv:2602.15239*, 2026. Under review. Workshop version at the [NeurIPS 2025 Workshop on New Perspectives in Graph Machine Learning](https://neurips.cc/virtual/2025/loc/san-diego/workshop/109579).
+- **[Loss Shaping Constraints for Long-Term Time Series Forecasting](https://arxiv.org/abs/2402.09373).** <a href="https://github.com/jotaporras/loss-shaping" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
+  I. Hounie\*, **J. Porras-Valenzuela\***, A. Ribeiro. *ICML 2024*.
+- **[A Deep Reinforcement Learning Approach to Multistage Stochastic Network Flows for Distribution Problems](https://repositoriotec.tec.ac.cr/bitstream/handle/2238/13949/TF9360_BIB307896_Javier_Porras_Valenzuela.pdf?sequence=1&isAllowed=y).** <a href="https://github.com/jotaporras/shipping_assignment_rl_gcn" aria-label="Code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a><br>
+  **J. Porras-Valenzuela**. *Master's Thesis, ITCR*, 2022.
 
+<small>\* Equal contribution.</small>
